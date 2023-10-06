@@ -17,6 +17,10 @@ streamlit run dashboard.py
 https://irfanwahyr-dicoding-analisis-python-dashboard-xqlhkt.streamlit.app/
 
 ```
+## Github Repository
+```
+https://github.com/irfanwahyr/Dicoding_Analisis_Python.git
+```
 
 ## ScreenShot aplikasi
 ![Halaman 1](foto_1.png)
